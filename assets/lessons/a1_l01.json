@@ -1,0 +1,187 @@
+{
+  "id": "a1_l01",
+  "level": "A1",
+  "lesson_number": 1,
+  "title_de": "Erste Tage in Berlin",
+  "title_fa": "روزهای اول در برلین",
+  "grammar_focus": "Verbkonjugation: regelmäßige Verben, möchten, sprechen, sein | Personalpronomen ich, du, er, sie, Sie | definiter Artikel Nominativ der, das, die | Satzarten | Präpositionen aus, in",
+  "story_de": "Hallo! Ich bin Amir. Ich bin 27 Jahre alt. Ich komme aus dem Iran und wohne jetzt in Berlin. In Berlin ist alles neu.\n\nDas ist Tom. Er ist mein Freund. Er kommt aus Deutschland. Er wohnt in München. Er besucht jetzt Berlin.\n\nAmir: Hallo Tom! Woher kommst du?\nTom: Ich komme aus München. Und du? Kommst du aus dem Iran?\nAmir: Ja, ich komme aus dem Iran. Wo wohnst du in München?\nTom: Ich wohne in der Stadtmitte.\n\nIm Café:\nDie Kellnerin: Hallo! Was möchten Sie trinken?\nTom: Ich möchte einen Kaffee. Was möchtest du, Amir?\nAmir: Ich möchte auch einen Kaffee.\nDie Kellnerin: Kommen Sie aus Deutschland?\nAmir: Nein, ich komme nicht aus Deutschland. Ich komme aus dem Iran. Ich spreche Persisch, ein bisschen Deutsch und Englisch.\nDie Kellnerin: Das ist super! Sprichst du gut Deutsch?\nAmir: Ja, ein bisschen. Der Kaffee ist hier sehr gut.\nTom: Ja, das Café ist schön. Die Frau dort ist auch nett.",
+  "story_fa": "سلام! من امیر هستم. من ۲۷ ساله هستم. من از ایران می‌آیم و الان در برلین زندگی می‌کنم. در برلین همه چیز جدید است.\n\nاین تام است. او دوست من است. او اهل آلمان است. او در مونیخ زندگی می‌کند. او الان از برلین دیدن می‌کند.\n\nامیر: سلام تام! اهل کجایی؟\nتام: من اهل مونیخ هستم. و تو؟ تو اهل ایرانی؟\nامیر: بله، من اهل ایران هستم. تو در مونیخ کجا زندگی می‌کنی؟\nتام: من در مرکز شهر زندگی می‌کنم.\n\nدر کافه:\nگارسون خانم: سلام! شما چه می‌خواهید بنوشید؟ (محترمانه)\nتام: من یک قهوه می‌خواهم. تو چی می‌خواهی امیر؟\nامیر: من هم یک قهوه می‌خواهم.\nگارسون: شما اهل آلمان هستید؟ (محترمانه)\nامیر: نه، من اهل آلمان نیستم. من اهل ایران هستم. من فارسی، کمی آلمانی و انگلیسی صحبت می‌کنم.\nگارسون: عالیه! آیا خوب آلمانی صحبت می‌کنی؟\nامیر: بله، کمی. قهوه اینجا خیلی خوب است.\nتام: بله، کافه زیباست. آن خانم آنجا هم مهربان است.",
+  "vocabulary": [
+    {
+      "de": "sein",
+      "article": "",
+      "plural": "",
+      "word_type": "Verb - بی‌قاعده",
+      "fa": "بودن",
+      "example_de": "Ich bin Amir. Er ist mein Freund."
+    },
+    {
+      "de": "kommen aus",
+      "article": "",
+      "plural": "",
+      "word_type": "Verb - با قاعده",
+      "fa": "اهل ... بودن، از ... آمدن",
+      "example_de": "Ich komme aus dem Iran."
+    },
+    {
+      "de": "wohnen",
+      "article": "",
+      "plural": "",
+      "word_type": "Verb - با قاعده",
+      "fa": "زندگی کردن، سکونت داشتن",
+      "example_de": "Ich wohne in Berlin."
+    },
+    {
+      "de": "besuchen",
+      "article": "",
+      "plural": "",
+      "word_type": "Verb - با قاعده",
+      "fa": "دیدن کردن، ملاقات کردن",
+      "example_de": "Er besucht Berlin."
+    },
+    {
+      "de": "sprechen",
+      "article": "",
+      "plural": "",
+      "word_type": "Verb - بی‌قاعده (e -> i)",
+      "fa": "صحبت کردن",
+      "example_de": "Ich spreche Deutsch. Du sprichst gut."
+    },
+    {
+      "de": "möchten",
+      "article": "",
+      "plural": "",
+      "word_type": "Verb - Modalverb",
+      "fa": "خواستن، میل داشتن (مودبانه)",
+      "example_de": "Ich möchte einen Kaffee."
+    },
+    {
+      "de": "trinken",
+      "article": "",
+      "plural": "",
+      "word_type": "Verb - با قاعده",
+      "fa": "نوشیدن",
+      "example_de": "Was möchten Sie trinken?"
+    },
+    {
+      "de": "der Freund",
+      "article": "der",
+      "plural": "die Freunde",
+      "word_type": "Nomen",
+      "fa": "دوست (مذکر)",
+      "example_de": "Das ist mein Freund Tom."
+    },
+    {
+      "de": "das Café",
+      "article": "das",
+      "plural": "die Cafés",
+      "word_type": "Nomen",
+      "fa": "کافه",
+      "example_de": "Das Café ist schön."
+    },
+    {
+      "de": "der Kaffee",
+      "article": "der",
+      "plural": "die Kaffees",
+      "word_type": "Nomen",
+      "fa": "قهوه",
+      "example_de": "Der Kaffee ist sehr gut."
+    },
+    {
+      "de": "die Kellnerin",
+      "article": "die",
+      "plural": "die Kellnerinnen",
+      "word_type": "Nomen",
+      "fa": "گارسون خانم",
+      "example_de": "Die Kellnerin ist nett."
+    },
+    {
+      "de": "die Frau",
+      "article": "die",
+      "plural": "die Frauen",
+      "word_type": "Nomen",
+      "fa": "خانم، زن",
+      "example_de": "Die Frau dort ist nett."
+    },
+    {
+      "de": "die Stadtmitte",
+      "article": "die",
+      "plural": "die Stadtmitten",
+      "word_type": "Nomen",
+      "fa": "مرکز شهر",
+      "example_de": "Ich wohne in der Stadtmitte."
+    },
+    {
+      "de": "Woher?",
+      "article": "",
+      "plural": "",
+      "word_type": "W-Fragewort",
+      "fa": "از کجا؟",
+      "example_de": "Woher kommst du?"
+    },
+    {
+      "de": "Wo?",
+      "article": "",
+      "plural": "",
+      "word_type": "W-Fragewort",
+      "fa": "کجا؟",
+      "example_de": "Wo wohnst du?"
+    },
+    {
+      "de": "Was?",
+      "article": "",
+      "plural": "",
+      "word_type": "W-Fragewort",
+      "fa": "چه؟ چی؟",
+      "example_de": "Was möchtest du trinken?"
+    }
+  ],
+  "grammar": {
+    "title_fa": "صرف فعل، ضمایر شخصی، آرتیکل معین در حالت فاعلی، انواع جمله و حروف اضافه مکانی aus و in",
+    "explanation_fa": "سلام! این درس مهم‌ترین پایه آلمانی است. قدم به قدم بریم جلو:\n\n**۱. صرف فعل (Verbkonjugation):**\nدر آلمانی فعل با توجه به فاعل تغییر می‌کند. برای افعال با قاعده (regelmäßig) پسوندها ثابت هستند:\nمثل wohnen:\nich wohn-E, du wohn-ST, er/sie/es wohn-T, wir wohn-EN, ihr wohn-T, sie/Sie wohn-EN\nهمین الگو برای: komm-en, trink-en, besuch-en\n\nاستثناها:\n- sein (بودن) کاملا بی‌قاعده است: ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie/Sie sind (باید حفظ شود)\n- sprechen: du sprichst, er spricht (حرف e به i تبدیل می‌شود)\n- möchten: می‌خواهم (مودبانه). این فعل خیلی مودبانه‌تر از wollen است و در کافه همیشه استفاده می‌شود: ich möchte, du möchtest, er möchte, wir möchten, Sie möchten\n\n**۲. ضمایر شخصی (Personalpronomen):**\nich=من, du=تو صمیمی, er=او مذکر, sie=او مونث, es=آن, wir=ما, ihr=شما صمیمی جمع, sie=آنها, Sie=شما محترمانه (همیشه با حرف بزرگ). در داستان: 'Er ist mein Freund' (او دوست من است) - 'Sie' با S بزرگ وقتی گارسون محترمانه می‌پرسد 'Was möchten Sie?'\n\n**۳. آرتیکل معین در Nominativ (حالت فاعلی):**\nهر اسم در آلمانی جنسیت دارد:\nder = مذکر -> der Freund, der Kaffee\n die = مونث -> die Frau, die Kellnerin, die Stadtmitte\n das = خنثی -> das Café\n\n**۴. انواع جمله (Satzarten):**\n- Aussagesatz (خبری): فعل جایگاه دوم دارد. 'Ich wohne in Berlin.'\n- W-Frage (پرسشی با کلمه پرسشی): کلمه پرسشی اول + فعل دوم + ادامه. 'Woher kommst du?' 'Was möchtest du?'\n- Ja/Nein-Frage (بله/خیر): فعل اول جمله. 'Kommst du aus dem Iran?' جواب: Ja/Nein\n\n**۵. حروف اضافه مکانی aus و in:**\n- aus = از، اهل (مبدا). 'Ich komme aus dem Iran.' (dem چون Iran در اینجا حالت Dativ می‌گیرد، ولی در A1 فقط به عنوان یک عبارت حفظ کنید)\n- in = در (مکان). 'Ich wohne in Berlin.' 'Ich wohne in der Stadtmitte.'\nنکته: بعد از in معمولا شهر بدون آرتیکل می‌آید: in Berlin, in München.\n\nاین ۵ نکته ستون کل داستان امروز بود!",
+    "explanation_de": null,
+    "examples": [
+      {
+        "de": "Ich wohne in Berlin. Ich komme aus dem Iran.",
+        "fa": "من در برلین زندگی می‌کنم. من از ایران می‌آیم. (in + شهر، aus + کشور)"
+      },
+      {
+        "de": "Wo wohnst du? - Ich wohne in der Stadtmitte.",
+        "fa": "کجا زندگی می‌کنی؟ در مرکز شهر. (W-Frage vs Aussagesatz)"
+      },
+      {
+        "de": "Was möchten Sie trinken? - Ich möchte einen Kaffee.",
+        "fa": "چه می‌خواهید بنوشید؟ یک قهوه می‌خواهم. (Sie محترمانه + möchten)"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "question_de": "Ich ___ aus dem Iran und ___ in Berlin. (kommen, wohnen)",
+      "question_fa": "جای خالی را با صرف درست پر کن",
+      "answer": "komme, wohne",
+      "options": []
+    },
+    {
+      "type": "multiple_choice",
+      "question_de": "Was ist richtig? Das Café oder Die Café?",
+      "question_fa": "کدام آرتیکل درست است؟",
+      "options": ["der Café", "die Café", "das Café"],
+      "correct_index": 2
+    },
+    {
+      "type": "translate",
+      "question_de": "Woher kommst du?",
+      "question_fa": "این W-Frage را به فارسی ترجمه کن و یک جواب کامل بده",
+      "answer": "اهل کجایی؟ Ich komme aus dem Iran."
+    },
+    {
+      "type": "yes_no_question",
+      "question_de": "Bilden Sie eine Ja/Nein-Frage: du / Deutsch / sprechen",
+      "question_fa": "یک سوال بله/خیر بساز",
+      "answer": "Sprichst du Deutsch?"
+    }
+  ]
+}
