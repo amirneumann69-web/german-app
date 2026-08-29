@@ -7,35 +7,14 @@
 // - Konnektor trotzdem
 // - Adjektivdeklination mit Superlativ
 // - Wortbildung: Adjektiv → Nomen
-//
-// B1 has an independent storyline.
-// Main character: Mara
 // ============================================================
 
 final Map<String, dynamic> b1_l01_data = {
-  'id': 'b1_l01',
-  'level': 'B1',
-  'number': 1,
-
   'title': 'Ein neuer Anfang',
-  'title_de': 'Ein neuer Anfang',
-  'title_fa': 'یک شروع تازه',
-
-  'subtitle_de': 'Mara beginnt ein neues Kapitel',
-  'subtitle_fa': 'مارا فصل جدیدی از زندگی‌اش را شروع می‌کند',
-
-  'image': 'https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=800',
 
   // ------------------------------------------------------------
   // STORY
   // ------------------------------------------------------------
-
-  'previously': {
-    'de':
-        'Mara hat vor kurzem eine neue Stelle in Hamburg gefunden. Nach mehreren Jahren in einer kleineren Stadt möchte sie etwas Neues erleben. Sie kennt Hamburg noch nicht gut, aber sie freut sich auf die Veränderung.',
-    'fa':
-        'مارا به‌تازگی یک شغل جدید در هامبورگ پیدا کرده است. پس از چند سال زندگی در یک شهر کوچک‌تر، می‌خواهد تجربه جدیدی داشته باشد. او هنوز هامبورگ را به‌خوبی نمی‌شناسد، اما از این تغییر خوشحال است.',
-  },
 
   'de': '''
 Ein neuer Anfang
@@ -44,59 +23,59 @@ Mara steht früh am Morgen vor ihrem neuen Büro. Sie ist ein bisschen nervös, 
 
 Vor drei Wochen ist sie nach Hamburg gezogen. Es war nicht einfach, eine neue Wohnung zu finden und alles zu organisieren. Trotzdem hat sie die Entscheidung nicht bereut.
 
-„Jetzt geht es wirklich los“, denkt sie.
+„Jetzt geht es wirklich los", denkt sie.
 
 Mara möchte einen guten ersten Eindruck machen. Deshalb hat sie sich am Abend vorher genau überlegt, was sie anziehen möchte. Sie hat sogar ihren Wecker zweimal kontrolliert, um nicht zu spät zu kommen.
 
 Als sie das Büro betritt, sieht sie eine junge Frau an der Rezeption.
 
-„Guten Morgen. Kann ich Ihnen helfen?“
+„Guten Morgen. Kann ich Ihnen helfen?"
 
-„Guten Morgen. Mein Name ist Mara Schneider. Ich fange heute hier an.“
+„Guten Morgen. Mein Name ist Mara Schneider. Ich fange heute hier an."
 
 Die Frau lächelt.
 
-„Dann sind Sie bestimmt im Marketingteam. Ich bin Lena.“
+„Dann sind Sie bestimmt im Marketingteam. Ich bin Lena."
 
 Lena zeigt Mara das Büro.
 
-„Hier ist die Küche. Dort können Sie sich einen Kaffee machen. Und da hinten ist der Besprechungsraum.“
+„Hier ist die Küche. Dort können Sie sich einen Kaffee machen. Und da hinten ist der Besprechungsraum."
 
 Mara schaut sich interessiert um.
 
-„Das Büro ist wirklich schön.“
+„Das Büro ist wirklich schön."
 
-„Ja“, sagt Lena. „Ich arbeite seit drei Jahren hier. Für mich ist es immer noch einer der angenehmsten Arbeitsplätze in der Stadt.“
+„Ja", sagt Lena. „Ich arbeite seit drei Jahren hier. Für mich ist es immer noch einer der angenehmsten Arbeitsplätze in der Stadt."
 
 Kurz danach lernt Mara ihren neuen Chef kennen.
 
-„Willkommen im Team, Mara“, sagt Herr Weber. „Ich hoffe, Sie fühlen sich schnell wohl bei uns.“
+„Willkommen im Team, Mara", sagt Herr Weber. „Ich hoffe, Sie fühlen sich schnell wohl bei uns."
 
-„Danke. Ich freue mich sehr darauf, hier zu arbeiten.“
+„Danke. Ich freue mich sehr darauf, hier zu arbeiten."
 
 Herr Weber erklärt ihr die wichtigsten Aufgaben.
 
-„In den ersten Wochen gibt es viel zu lernen. Sie werden wahrscheinlich viele neue Informationen bekommen.“
+„In den ersten Wochen gibt es viel zu lernen. Sie werden wahrscheinlich viele neue Informationen bekommen."
 
 Mara nickt.
 
-„Das ist kein Problem. Ich möchte möglichst schnell selbstständig arbeiten können.“
+„Das ist kein Problem. Ich möchte möglichst schnell selbstständig arbeiten können."
 
 Am Vormittag nimmt Mara an ihrer ersten Teamsitzung teil. Sie ist etwas überrascht, wie offen die Kollegen miteinander sprechen.
 
 Nach der Sitzung kommt Lena zu ihr.
 
-„Und? Wie war dein erster Eindruck?“
+„Und? Wie war dein erster Eindruck?"
 
 Mara lächelt.
 
-„Sehr gut. Ich glaube, das Team ist wirklich nett.“
+„Sehr gut. Ich glaube, das Team ist wirklich nett."
 
-„Das freut mich.“
+„Das freut mich."
 
 Mara denkt kurz nach.
 
-„Ich muss mich natürlich noch an vieles gewöhnen. Aber ich glaube, dass ich hier viel lernen kann.“
+„Ich muss mich natürlich noch an vieles gewöhnen. Aber ich glaube, dass ich hier viel lernen kann."
 
 Am Nachmittag bekommt Mara ihre erste Aufgabe. Sie soll einen kurzen Bericht über ein neues Projekt schreiben.
 
@@ -110,7 +89,7 @@ Sie könnte ihren Kollegen sofort um Hilfe bitten, aber sie möchte zuerst selbs
 
 Am Ende des Arbeitstages schaut sie auf die Uhr.
 
-„Schon sechs Uhr?“, denkt sie.
+„Schon sechs Uhr?", denkt sie.
 
 Sie packt ihre Sachen und verabschiedet sich von Lena.
 
@@ -306,141 +285,92 @@ Aber vielleicht wird diese Stadt bald ihr Zuhause sein.
 
   'grammar': [
     {
-      'topic': '1. Infinitiv mit zu',
+      'topic': 'Infinitiv mit zu',
       'explanation':
-          'در زبان آلمانی، پس از بسیاری از افعال و عبارت‌ها می‌توان از ساختار Infinitiv mit zu استفاده کرد. در این ساختار، فعل دوم به صورت مصدر همراه با zu می‌آید و معمولاً در پایان جمله قرار می‌گیرد.',
+          'در زبان آلمانی، Infinitiv mit zu یکی از ساختارهای مهم برای وصل کردن دو فعل یا بیان یک عمل به صورت کلی است. در این ساختار، فعل دوم به صورت مصدر (Infinitiv) می‌آید و معمولاً کلمه «zu» قبل از آن قرار می‌گیرد. این ساختار معمولاً زمانی استفاده می‌شود که یک جمله شامل یک فعل اصلی باشد و بخواهیم عمل دیگری را نیز بیان کنیم. ساختار معمول: Hauptsatz + , + zu + Infinitiv',
       'examples': [
-        'Ich freue mich darauf, hier zu arbeiten.',
-        'Mara möchte einen guten Eindruck machen.',
-        'Sie versucht, die Aufgabe selbst zu lösen.',
-        'Ich habe beschlossen, in Hamburg zu bleiben.',
-        'Es ist wichtig, pünktlich zu sein.',
-        'Mara möchte möglichst schnell selbstständig arbeiten.'
+        'Ich versuche, jeden Tag Deutsch zu lernen. = من سعی می‌کنم هر روز آلمانی یاد بگیرم.',
+        'Mara versucht, die Aufgabe selbst zu lösen. = مارا سعی می‌کند خودش مسئله را حل کند.',
+        'Ich habe vor, nächstes Jahr in Deutschland zu arbeiten. = من قصد دارم سال آینده در آلمان کار کنم.',
+        'Es ist wichtig, pünktlich zu sein. = مهم است که سر وقت باشی.'
       ]
     },
     {
-      'topic': '2. Konnektor trotzdem',
+      'topic': 'Infinitiv mit zu bei trennbaren Verben',
       'explanation':
-          '«trotzdem» به معنای «با این حال / با وجود این» است و برای بیان تضاد میان دو جمله استفاده می‌شود. وقتی trotzdem در ابتدای جمله اصلی قرار می‌گیرد، فعل صرف‌شده همچنان در جایگاه دوم قرار می‌گیرد.',
+          'یکی از نکات مهم در سطح B1 این است که اگر فعل دوم یک فعل جداشدنی (trennbares Verb) باشد، «zu» بین پیشوند و ریشه فعل قرار می‌گیرد. فرمول ساده: Präfix + zu + Verb. نباید بگوییم «zu anfangen» یا «zu einkaufen». شکل درست «anzufangen» و «einzukaufen» است.',
       'examples': [
-        'Die Aufgabe ist schwierig. Trotzdem mache ich weiter.',
-        'Mara ist nervös. Trotzdem freut sie sich auf den ersten Tag.',
-        'Es regnet. Trotzdem gehen wir spazieren.',
-        'Sie kennt die Stadt noch nicht gut. Trotzdem fühlt sie sich wohl.',
-        'Der Bericht ist nicht einfach. Trotzdem möchte Mara ihn selbst schreiben.'
+        'Ich habe vor, morgen früh aufzustehen. = قصد دارم فردا صبح زود بیدار شوم.',
+        'Wir versuchen, pünktlich anzufangen. = ما سعی می‌کنیم به‌موقع شروع کنیم.',
+        'Sie hat vergessen, Brot einzukaufen. = او فراموش کرده است نان بخرد.'
       ]
     },
     {
-      'topic': '3. Adjektivdeklination mit Superlativ',
+      'topic': 'Konnektor "trotzdem"',
       'explanation':
-          'وقتی صفت در حالت Superlativ همراه با اسم استفاده می‌شود، مانند سایر صفت‌ها باید با توجه به جنس، حالت دستوری و نوع Artikel صرف شود. در این سطح باید بتوانید شکل‌هایی مانند der beste، die schönste، das größte و die wichtigsten را تشخیص دهید و استفاده کنید.',
+          '«trotzdem» یک Konnektor است که برای بیان تضاد یا نتیجه‌ای غیرمنتظره استفاده می‌شود. وقتی انتظار داریم یک اتفاق به دلیل شرایط خاصی رخ ندهد، اما اتفاق برعکس رخ می‌دهد، می‌توانیم از «trotzdem» استفاده کنیم. یک نکته مهم: وقتی در ابتدای جمله قرار می‌گیرد، فعل صرف‌شده همچنان در جایگاه دوم قرار می‌گیرد.',
       'examples': [
-        'Das ist der beste Arbeitsplatz.',
-        'Sie arbeitet in der schönsten Stadt.',
-        'Das ist das wichtigste Problem.',
-        'Wir haben die besten Kollegen.',
-        'Hamburg ist eine der interessantesten Städte Deutschlands.',
-        'Das war einer der schwierigsten Tage.'
+        'Die Aufgabe ist schwierig. Trotzdem mache ich weiter. = این کار سخت است. با این حال، من ادامه می‌دهم.',
+        'Mara ist nervös. Trotzdem spricht sie vor allen Leuten. = مارا مضطرب است. با این حال، جلوی همه صحبت می‌کند.',
+        'Es regnet. Trotzdem gehen wir spazieren. = باران می‌بارد. با این حال، به پیاده‌روی می‌رویم.'
       ]
     },
     {
-      'topic': '4. Wortbildung: Adjektiv → Nomen',
+      'topic': 'Trotzdem vs. obwohl',
       'explanation':
-          'در زبان آلمانی می‌توان از صفت‌ها اسم ساخت. این اسم‌ها معمولاً با حرف بزرگ نوشته می‌شوند. برای افراد، شکل‌های اسم‌شده مانند der Alte یا die Neue رایج هستند. همچنین بسیاری از اسم‌های انتزاعی از صفت‌ها ساخته می‌شوند، مانند möglich → die Möglichkeit.',
+          'هر دو برای بیان تضاد استفاده می‌شوند، اما ساختار جمله آنها متفاوت است. «obwohl» یک Subjunktion است و یک جمله وابسته (Nebensatz) می‌سازد. بنابراین فعل صرف‌شده در پایان جمله قرار می‌گیرد. اما «trotzdem» یک Konnektor است و در جمله اصلی استفاده می‌شود. فعل همچنان در جایگاه دوم قرار دارد.',
+      'examples': [
+        'Obwohl ich müde bin, gehe ich zur Arbeit. = اگرچه خسته هستم، به سر کار می‌روم.',
+        'Ich bin müde. Trotzdem gehe ich zur Arbeit. = من خسته هستم. با این حال، به سر کار می‌روم.',
+        'Obwohl das Wetter schlecht ist, gehen wir raus. = اگرچه هوا بد است، بیرون می‌رویم.',
+        'Das Wetter ist schlecht. Trotzdem gehen wir raus. = هوا بد است. با این حال، بیرون می‌رویم.'
+      ]
+    },
+    {
+      'topic': 'Adjektivdeklination mit Superlativ',
+      'explanation':
+          'Superlativ برای بیان بالاترین درجه یک ویژگی استفاده می‌شود. در زبان آلمانی معمولاً با «am ...sten» یا با «der/die/das ...ste» ساخته می‌شود. وقتی Superlativ مستقیماً قبل از یک اسم قرار می‌گیرد، صفت باید مانند یک صفت معمولی صرف شود.',
+      'examples': [
+        'Das ist der beste Arbeitsplatz. = این بهترین محل کار است.',
+        'Sie arbeitet in der schönsten Stadt. = او در زیباترین شهر کار می‌کند.',
+        'Das ist das wichtigste Problem. = این مهم‌ترین مشکل است.',
+        'Ich suche den besten Arzt. = من به دنبال بهترین پزشک هستم.'
+      ]
+    },
+    {
+      'topic': 'Superlativ: am ...sten vs. der/die/das ...ste',
+      'explanation':
+          'دو ساختار بسیار مهم برای Superlativ وجود دارد. وقتی صفت بعد از فعل‌هایی مانند sein استفاده می‌شود و مستقیماً قبل از اسم نیست، از «am + Adjektiv + -sten» استفاده می‌کنیم. وقتی صفت مستقیماً قبل از اسم قرار می‌گیرد، از «der/die/das + ...ste» استفاده می‌کنیم.',
+      'examples': [
+        'Dieses Hotel ist am teuersten. = این هتل از همه گران‌تر است.',
+        'Das ist das teuerste Hotel. = این گران‌ترین هتل است.',
+        'Mara arbeitet am schnellsten. = مارا از همه سریع‌تر کار می‌کند.',
+        'Mara ist die schnellste Mitarbeiterin. = مارا سریع‌ترین کارمند است.'
+      ]
+    },
+    {
+      'topic': 'Wortbildung: Adjektiv → Nomen',
+      'explanation':
+          'در زبان آلمانی می‌توان از بعضی صفت‌ها اسم ساخت. این فرآیند Wortbildung نام دارد. یکی از الگوهای مهم در سطح B1 تبدیل صفت به اسم برای اشاره به یک شخص یا مفهوم است. وقتی یک صفت برای اشاره به یک شخص به عنوان اسم استفاده شود، معمولاً با حرف بزرگ نوشته می‌شود و Artikel می‌گیرد.',
       'examples': [
         'neu → der Neue / die Neue',
         'bekannt → der Bekannte / die Bekannte',
         'krank → der Kranke / die Kranke',
         'möglich → die Möglichkeit',
         'wichtig → die Wichtigkeit',
-        'sicher → die Sicherheit',
         'frei → die Freiheit'
       ]
     },
     {
-      'topic': '5. Infinitiv mit zu nach bestimmten Verben',
+      'topic': 'Adjektiv als Nomen: Deklination',
       'explanation':
-          'برخی افعال مانند versuchen، beginnen، vergessen و planen اغلب با Infinitiv mit zu استفاده می‌شوند. در این ساختار، zu قبل از مصدر قرار می‌گیرد.',
+          'وقتی یک صفت به عنوان اسم استفاده می‌شود، پایان آن مانند صفت صرف‌شده تغییر می‌کند. بنابراین باید به Artikel و Kasus توجه کنیم. «Neue» یک اسم معمولی نیست که شکل آن همیشه ثابت باشد؛ این واژه در واقع یک صفت اسم‌شده است و همچنان الگوی صرف صفت را دنبال می‌کند.',
       'examples': [
-        'Ich versuche, Deutsch zu lernen.',
-        'Mara beginnt, sich an die neue Arbeit zu gewöhnen.',
-        'Sie plant, länger in Hamburg zu bleiben.',
-        'Ich habe vergessen, den Bericht zu schicken.',
-        'Wir hoffen, bald eine Lösung zu finden.'
+        'Der Neue arbeitet heute. = کارمند جدید امروز کار می‌کند.',
+        'Ich sehe den Neuen. = من کارمند جدید را می‌بینم.',
+        'Ich spreche mit dem Neuen. = من با کارمند جدید صحبت می‌کنم.',
+        'Die Neue arbeitet in unserem Büro. = کارمند جدید (زن) در دفتر ما کار می‌کند.'
       ]
-    },
-  ],
-
-  // ------------------------------------------------------------
-  // EXERCISES
-  // ------------------------------------------------------------
-
-  'uebungen': [
-    {
-      'frage': 'Warum ist Mara nach Hamburg gezogen?',
-      'frage_fa': 'چرا مارا به هامبورگ نقل مکان کرده است؟',
-      'optionen': [
-        'Weil sie etwas Neues erleben möchte.',
-        'Weil ihre Familie dort lebt.',
-        'Weil sie dort studieren möchte.',
-        'Weil sie die Stadt schon sehr gut kennt.'
-      ],
-      'antwort': 0,
-    },
-    {
-      'frage': 'Wie fühlt sich Mara am ersten Arbeitstag?',
-      'frage_fa': 'مارا در اولین روز کاری چه احساسی دارد؟',
-      'optionen': [
-        'Nur traurig.',
-        'Ein bisschen nervös, aber auch froh.',
-        'Sehr wütend.',
-        'Überhaupt nicht interessiert.'
-      ],
-      'antwort': 1,
-    },
-    {
-      'frage': 'Was möchte Mara möglichst schnell können?',
-      'frage_fa': 'مارا می‌خواهد هرچه سریع‌تر چه کاری را بتواند انجام دهد؟',
-      'optionen': [
-        'Eine neue Wohnung kaufen.',
-        'Hamburg verlassen.',
-        'Selbstständig arbeiten.',
-        'Ein neues Team finden.'
-      ],
-      'antwort': 2,
-    },
-    {
-      'frage': 'Was soll Mara am Nachmittag schreiben?',
-      'frage_fa': 'مارا بعدازظهر باید چه چیزی بنویسد؟',
-      'optionen': [
-        'Eine E-Mail an ihre Familie.',
-        'Einen kurzen Bericht.',
-        'Eine Bewerbung.',
-        'Eine Nachricht an Lena.'
-      ],
-      'antwort': 1,
-    },
-    {
-      'frage': 'Wie fühlt sich Mara am Ende des Tages?',
-      'frage_fa': 'مارا در پایان روز چه احساسی دارد؟',
-      'optionen': [
-        'Sie denkt, dass ihre Entscheidung richtig war.',
-        'Sie möchte sofort zurückziehen.',
-        'Sie hasst ihren neuen Arbeitsplatz.',
-        'Sie möchte nicht mehr arbeiten.'
-      ],
-      'antwort': 0,
-    },
-  ],
-
-  // ------------------------------------------------------------
-  // SUMMARY
-  // ------------------------------------------------------------
-
-  'zusammenfassung': {
-    'de':
-        'Mara beginnt ihre neue Arbeit in Hamburg. Obwohl sie einige Schwierigkeiten hat, bleibt sie positiv und möchte die neuen Aufgaben selbstständig bewältigen.',
-    'fa':
-        'مارا کار جدیدش را در هامبورگ شروع می‌کند. با وجود برخی دشواری‌ها، او نگرش مثبتی دارد و می‌خواهد وظایف جدیدش را به‌طور مستقل انجام دهد.',
-  },
+    }
+  ]
 };
